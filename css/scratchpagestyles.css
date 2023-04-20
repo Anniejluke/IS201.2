@@ -1,0 +1,31 @@
+h1{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(214, 104, 126);
+    text-align: center;
+}
+
+body{
+    background-color: rgb(251, 240, 243);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.placeslist{
+    font-size: 25px;
+    font-weight: 200;
+    color:rgb(173, 34, 62);
+}
+
+.section{
+    font-size: 30px;
+    color: rgb(69, 13, 89);
+}
+
+.linkstyle{
+    color:rgb(173, 34, 62);
+    
+}
+
+
+
