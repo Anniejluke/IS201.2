@@ -26,6 +26,11 @@ body{
     color:rgb(173, 34, 62);
     
 }
-
+footer{
+    background-color:rgb(227, 224, 224);
+    color: rgb(173, 34, 62);
+    padding: 10px;
+    text-align: center;
+}
 
 
